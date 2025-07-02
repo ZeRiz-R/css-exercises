@@ -34,6 +34,7 @@ body {
   font-weight: bold;
 } 
 
+/* Added a .text selector to specifically target the child element*/
 .text.child {
   color: rgb(0, 0, 0);
   font-weight: 800;
